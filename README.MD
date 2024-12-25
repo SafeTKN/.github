@@ -48,9 +48,11 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ---
 
 ## 🌐 **Connect With Us**
-- **Website:** [SafeTKN](https://example.com)
+- **Website:** [SafeTKN](https://safetkn.com)
 - **Facebook:** [SafeTKN](https://facebook.com/safetkn)
-- **Twitter:** [@SafeTKN](https://twitter.com/safetkn)
-- **Email:** [support@safetkn.com](mailto:support@safetkn.com)
+- **Instagram:** [@SafeTKN](https://instagram.com/safetkn)
+- **Youtube:** [@SafeTKN](https://youtube.com/safetkn)
+- **X:** [@SafeTKN](https://twitter.com/safe_tkn)
+- **Email:** [support@safetkn.com](mailto:info@safetkn.com)
 
 Let’s make the crypto world a safer place together!
